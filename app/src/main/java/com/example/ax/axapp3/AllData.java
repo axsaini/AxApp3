@@ -17,7 +17,7 @@ public class AllData extends AppCompatActivity {
         //EditText edit=(EditText) findViewById(R.id.editText4);
         TextView txt=(TextView)findViewById(R.id.textView2);
 
-
+EditText editText=(EditText)findViewById(R.id.editText4);
         }
 
     }
