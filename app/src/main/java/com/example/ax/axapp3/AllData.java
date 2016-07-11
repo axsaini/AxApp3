@@ -12,6 +12,7 @@ public class AllData extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_all_data);
+
     }
     public void create(View view){
         //EditText edit=(EditText) findViewById(R.id.editText4);
